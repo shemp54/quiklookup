@@ -1,1 +1,1 @@
-# quiklookup
+QuickLookupApp
